@@ -1,0 +1,1 @@
+add_library(MDI MDI.cpp MDI.hpp)
