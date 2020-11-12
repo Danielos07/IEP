@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 class A {
  
 private:
